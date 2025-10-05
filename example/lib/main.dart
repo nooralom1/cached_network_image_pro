@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         children: [
           CachedNetworkImageWidget(
             imgUrl:
-                "https://cdn.britannica.com/36/123536-050-95CB0C6E/Variety-fruits-vegetables.jpg",
+            "https://cdn.britannica.com/36/123536-050-95CB0C6E/Variety-fruits-vegetables.jpg",
             width: 250,
             height: 150,
           ),
