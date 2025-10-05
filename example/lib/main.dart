@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("CachedNetworkImageWidget")),
+      appBar: AppBar(title: Text("Cached Network Image Pro Example")),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
