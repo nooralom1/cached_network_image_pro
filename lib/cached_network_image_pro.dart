@@ -1,3 +1,14 @@
+/// {@template cached_network_image_pro}
+/// A professional Flutter widget for displaying cached network images with
+/// built-in support for heading, coordinates, and elevation metadata.
+///
+/// This widget is optimized for location-based, travel, or outdoor visualization apps.
+/// {@endtemplate}
+
+// ignore_for_file: unnecessary_library_name
+
+library cached_network_image_pro;
+
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:shimmer/shimmer.dart';

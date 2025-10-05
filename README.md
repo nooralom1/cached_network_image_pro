@@ -21,7 +21,7 @@ Add the package to your **pubspec.yaml**:
 
 ```yaml
 dependencies:
-  cached_network_image_pro: ^1.0.0
+  cached_network_image_pro: ^1.0.3
 ```
 
 Then run:
