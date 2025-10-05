@@ -1,3 +1,5 @@
-## 0.0.1
+[0.0.2] - 6 Oct 2025
+Initial release, should be polished, update the readme.md
 
-* TODO: Describe initial release.
+[0.0.1] - 6 Oct 2025
+Initial release, should be polished
