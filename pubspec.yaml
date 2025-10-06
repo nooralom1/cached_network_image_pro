@@ -1,6 +1,6 @@
 name: cached_network_image_pro
 description: "An enhanced and professional CachedNetworkImage widget that adds built-in heading, coordinate, location, and elevation display for smarter image rendering and contextual visualization."
-version: 0.0.5
+version: 0.0.6
 homepage: https://github.com/nooralom1/cached_network_image_pro
 platforms:
   android:
