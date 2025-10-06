@@ -13,13 +13,13 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:shimmer/shimmer.dart';
 
-class CachedNetworkImageWidget extends StatelessWidget {
+class CachedNetworkImagePro extends StatelessWidget {
   final String imgUrl;
   final double width, height;
   final Widget? errorWidget;
   final Widget? placeholder;
   final BoxFit? boxfit;
-  const CachedNetworkImageWidget({
+  const CachedNetworkImagePro({
     super.key,
     required this.imgUrl,
     required this.width,
