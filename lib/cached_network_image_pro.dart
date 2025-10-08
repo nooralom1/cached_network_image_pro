@@ -45,8 +45,8 @@ class CachedNetworkImagePro extends StatelessWidget {
           ),
       errorWidget: (context, url, error) =>
           errorWidget ??
-          Image.asset(
-            "assets/no image.jpg",
+          Image.network(
+            "https://github.com/nooralom1/cached_network_image_pro/blob/main/assets/no%20image.jpg?raw=true",
             height: height,
             width: width,
             fit: boxfit ?? BoxFit.cover,
